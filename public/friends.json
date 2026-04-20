@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "email": "david.kim@example.com",
+    "days_since_contact": 62,
+    "status": "almost due",
+    "tags": ["WORK"],
+    "bio": "Former colleague from the design agency. Great mentor for UI/UX strategy.",
+    "goal": 65,
+    "next_due_date": "2025-01-25"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+    "email": "emma.w@family.net",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["FAMILY"],
+    "bio": "Cousin living in Seattle. We usually catch up on family news and travel plans.",
+    "goal": 30,
+    "next_due_date": "2024-12-15"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+    "email": "lisa.nak@workplace.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["WORK"],
+    "bio": "Product Manager at the current firm. Coffee enthusiast and tech geek.",
+    "goal": 14,
+    "next_due_date": "2024-11-30"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "email": "james_wright@gmail.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "Met during the backpacking trip in Japan. Loves photography and hiking.",
+    "goal": 45,
+    "next_due_date": "2024-12-20"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop",
+    "email": "sarah.chen@uni.edu",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["FAMILY", "HOBBY"],
+    "bio": "Sister and best friend. We share a passion for pottery and weekend brunches.",
+    "goal": 7,
+    "next_due_date": "2025-01-28"
+  },
+  {
+    "id": 6,
+    "name": "Marcus Miller",
+    "picture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+    "email": "m.miller@tech.com",
+    "days_since_contact": 85,
+    "status": "overdue",
+    "tags": ["WORK"],
+    "bio": "Lead Engineer. We worked together on the 2023 rebranding project.",
+    "goal": 60,
+    "next_due_date": "2024-11-10"
+  },
+  {
+    "id": 7,
+    "name": "Elena Rodriguez",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop",
+    "email": "elena.rod@travel.com",
+    "days_since_contact": 25,
+    "status": "almost due",
+    "tags": ["TRAVEL"],
+    "bio": "Met in Spain. We share local food recommendations and travel hacks.",
+    "goal": 30,
+    "next_due_date": "2025-01-22"
+  },
+  {
+    "id": 8,
+    "name": "Alex Thompson",
+    "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400&h=400&fit=crop",
+    "email": "alex.t@hobby.org",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["HOBBY"],
+    "bio": "Gym buddy and marathon trainer. Very disciplined and motivating.",
+    "goal": 14,
+    "next_due_date": "2025-02-01"
+  },
+  {
+    "id": 9,
+    "name": "Priya Sharma",
+    "picture": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=400&h=400&fit=crop",
+    "email": "priya.s@design.co",
+    "days_since_contact": 120,
+    "status": "overdue",
+    "tags": ["WORK", "HOBBY"],
+    "bio": "Graphic designer friend. We usually talk about art history and indie movies.",
+    "goal": 90,
+    "next_due_date": "2024-10-15"
+  },
+  {
+    "id": 10,
+    "name": "Jordan Smith",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+    "email": "jordan.smith@web.dev",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["WORK"],
+    "bio": "Full-stack developer friend. Great for brainstorming side project ideas.",
+    "goal": 30,
+    "next_due_date": "2025-02-10"
+  }
+]

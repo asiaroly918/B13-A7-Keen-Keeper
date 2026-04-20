@@ -5,15 +5,20 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router';
 import Navbar from './components/shared/Navbar';
 import Rootlayout from './layout/Rootlayout'
+import FriendDetail from './layout/Friendsdetail';
+import Home from './pages/homepage/Homepage';
 const router = createBrowserRouter ([
   {
     path: "/",
-    components: Rootlayout,
+    Component: Rootlayout,
     children : [
       {
         index : true,
-        element :<p>homepage</p>
-      }
+        element : <Home/> },   
+      {
+        path : "friend/:id",
+        element :<FriendDetail />,
+        loader : () => fetch(`/friends.json`)},
     ]
   },
   {
